@@ -23,7 +23,7 @@ My research spans decision-making under uncertainty, with a particular interest 
 Education
 ======
 - **PhD in Operations Research**, Department of Mechanical & Industrial Engineering, University of Toronto (2026 – present)
-- **Master of Engineering**, emphasis in Data Analytics & Machine Learning, University of Toronto
+- **Master of Engineering**, emphasis in Data Analytics & Machine Learning, University of Toronto (2025 – 2026)
 - **Bachelor of Science in Applied Mathematics and Statistics**, University of Toronto (2021 – 2025)
 
 Contact
