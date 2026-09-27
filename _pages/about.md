@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Operations Research at the University of Toronto. I am fortunate to be advised by [Peyman Mohajerin Esfahani](https://mohajerinesfahani.github.io/) (Mechanical & Industrial Engineering, University of Toronto), [Vahid Roshanaei](https://www.rotman.utoronto.ca/the-rotman-experience/our-community/people/roshanaei-vahid/) (Rotman School of Management, University of Toronto), and [Amir Ardestani-Jaafari](https://management.ok.ubc.ca/about/contact/amir-ardestani-jaafari/) (Faculty of Management, University of British Columbia).
+I am a first-year PhD student in Operations Research in the Department of Mechanical & Industrial Engineering (MIE) at the University of Toronto. I am fortunate to be advised by [Peyman Mohajerin Esfahani](https://mohajerinesfahani.github.io/) (Mechanical & Industrial Engineering, University of Toronto), [Vahid Roshanaei](https://www.rotman.utoronto.ca/the-rotman-experience/our-community/people/roshanaei-vahid/) (Rotman School of Management, University of Toronto), and [Amir Ardestani-Jaafari](https://management.ok.ubc.ca/about/contact/amir-ardestani-jaafari/) (Faculty of Management, University of British Columbia).
 
 Before starting my PhD, I earned a Bachelor of Science in Applied Mathematics and Statistics and a Master of Engineering with an emphasis in Data Analytics & Machine Learning, both at the University of Toronto.
 
