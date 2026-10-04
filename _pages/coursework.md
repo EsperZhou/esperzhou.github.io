@@ -7,74 +7,92 @@ author_profile: true
 
 {% include base_path %}
 
-All courses were taken at the University of Toronto. Courses marked *joint* were offered jointly to undergraduate and graduate students; both course codes are listed.
+All courses were taken at the University of Toronto. Courses marked *joint* were offered jointly to undergraduate and graduate students; both course codes are listed. Full-year courses are listed under the term in which they began.
 
 Graduate coursework
 ======
 
-Optimization
+Fall 2026 (Ph.D.)
 ------
-* **ECE1505H**: Convex Optimization (Winter 2026)
-* **MIE1621H**: Non-Linear Optimization (Winter 2026)
+* **MAT1000H**: Real Analysis I (in progress)
 
-Stochastic processes and decision-making under uncertainty
+Winter 2026 (M.Eng.)
 ------
-* **MIE1605H**: Stochastic Processes (Fall 2025)
-* **MIE1615H**: Markov Decision Processes (Fall 2025)
-* **ECE1549H**: Stochastic Networks (Winter 2026)
-* **ECE1657H**: Game Theory and Evolutionary Games (Fall 2025)
+* **ECE1505H**: Convex Optimization
+* **ECE1549H**: Stochastic Networks
+* **MIE1621H**: Non-Linear Optimization
+* **MIE2002H**: Readings in Industrial Engineering I
+* **MIE8888Y**: MEng Research Project
 
-Readings
+Fall 2025 (M.Eng.)
 ------
-* **MIE2002H**: Readings in Industrial Engineering I (Winter 2026)
+* **ECE1657H**: Game Theory and Evolutionary Games
+* **MIE1605H**: Stochastic Processes
+* **MIE1615H**: Markov Decision Processes
 
 Undergraduate coursework
 ======
 
-Mathematics
+Fall 2024
 ------
-* **MAT137Y1**: Calculus with Proofs (2021 – 2022)
-* **MAT223H1**: Linear Algebra I (Fall 2021)
-* **MAT224H1**: Linear Algebra II (Fall 2022)
-* **MAT244H1**: Introduction to Ordinary Differential Equations (Fall 2022)
-* **MAT237Y1**: Multivariable Calculus with Proofs (2022 – 2023)
-* **APM346H1**: Partial Differential Equations (Summer 2023)
-* **MAT337H1**: Introduction to Real Analysis (Summer 2023)
-* **MAT332H1**: Introduction to Graph Theory (Fall 2023)
-* **MAT334H1**: Complex Variables (Winter 2024)
-* **MAT344H1**: Introduction to Combinatorics (Winter 2024)
-* **APM462H1**: Nonlinear Optimization (Summer 2024)
-* **MAT246H1**: Concepts in Abstract Mathematics (Summer 2024)
-* **MAT301H1**: Groups and Symmetries (Fall 2024)
-* **MAT327H1**: Introduction to Topology (Fall 2024)
+* **CSC413H1 / CSC2516H**: Neural Networks and Deep Learning (*joint*)
+* **ECO353H1**: Special Topics in Economics with Data Analytics: Sports Economics
+* **ESS205H1**: Confronting Global Change
+* **MAT301H1**: Groups and Symmetries
+* **MAT327H1**: Introduction to Topology
 
-Probability and statistics
+Summer 2024
 ------
-* **STA130H1**: An Introduction to Statistical Reasoning and Data Science (Winter 2022)
-* **STA257H1**: Probability and Statistics I (Fall 2022)
-* **STA261H1**: Probability and Statistics II (Winter 2023)
-* **STA302H1**: Methods of Data Analysis I (Summer 2023)
-* **STA355H1**: Theory of Statistical Practice (Fall 2023)
-* **STA437H1 / STA2005H**: Methods for Multivariate Data (Fall 2023, *joint*)
-* **STA347H1**: Probability (Winter 2024)
+* **APM462H1**: Nonlinear Optimization
+* **MAT246H1**: Concepts in Abstract Mathematics
 
-Machine learning
+Winter 2024
 ------
-* **STA314H1**: Statistical Methods for Machine Learning I (Fall 2023)
-* **STA414H1 / STA2104H**: Statistical Methods for Machine Learning II (Winter 2024, *joint*)
-* **CSC413H1**: Neural Networks and Deep Learning (Fall 2024)
+* **MAT334H1**: Complex Variables
+* **MAT344H1**: Introduction to Combinatorics
+* **STA347H1**: Probability
+* **STA414H1 / STA2104H**: Statistical Methods for Machine Learning II (*joint*)
 
-Computer science and logic
+Fall 2023
 ------
-* **CSC108H1**: Introduction to Computer Programming (Winter 2022)
-* **CSC148H1**: Introduction to Computer Science (Winter 2023)
-* **CSC165H1**: Mathematical Expression and Reasoning for Computer Science (Winter 2023)
-* **PHL245H5**: Modern Symbolic Logic (Winter 2022, UTM)
+* **ECO358H1**: Financial Economics I
+* **MAT332H1**: Introduction to Graph Theory
+* **STA314H1**: Statistical Methods for Machine Learning I
+* **STA355H1**: Theory of Statistical Practice
+* **STA437H1 / STA2005H**: Methods for Multivariate Data (*joint*)
 
-Economics
+Summer 2023
 ------
-* **ECO101H1**: Principles of Microeconomics (Fall 2021)
-* **ECO102H1**: Principles of Macroeconomics (Winter 2022)
-* **ECO206Y1**: Microeconomic Theory (2022 – 2023)
-* **ECO358H1**: Financial Economics I (Fall 2023)
-* **ECO353H1**: Special Topics in Economics with Data Analytics: Sports Economics (Fall 2024)
+* **APM346H1**: Partial Differential Equations
+* **MAT337H1**: Introduction to Real Analysis
+* **STA302H1**: Methods of Data Analysis I
+
+Winter 2023
+------
+* **CSC148H1**: Introduction to Computer Science
+* **CSC165H1**: Mathematical Expression and Reasoning for Computer Science
+* **STA261H1**: Probability and Statistics II
+
+Fall 2022
+------
+* **ECO206Y1**: Microeconomic Theory (full year)
+* **MAT224H1**: Linear Algebra II
+* **MAT237Y1**: Multivariable Calculus with Proofs (full year)
+* **MAT244H1**: Introduction to Ordinary Differential Equations
+* **STA257H1**: Probability and Statistics I
+
+Winter 2022
+------
+* **CSC108H1**: Introduction to Computer Programming
+* **ECO102H1**: Principles of Macroeconomics
+* **FSL100H1**: Elementary French I
+* **PHL245H5**: Modern Symbolic Logic (UTM)
+* **STA130H1**: An Introduction to Statistical Reasoning and Data Science
+
+Fall 2021
+------
+* **ECO101H1**: Principles of Microeconomics
+* **LIN101H1**: Introduction to Linguistics: Sound Structure
+* **MAT137Y1**: Calculus with Proofs (full year)
+* **MAT223H1**: Linear Algebra I
+* **PHY100H1**: The Magic of Physics
