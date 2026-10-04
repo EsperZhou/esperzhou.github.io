@@ -14,7 +14,7 @@ Graduate coursework
 
 Fall 2026 (Ph.D.)
 ------
-* **CSC2421H**: Topics in Algorithms (in progress)
+* **CSC2421H**: Topics in Algorithms: Online and Other Myopic Algorithms (in progress)
 * **STA2111H**: Probability Theory I (in progress)
 
 Winter 2026 (M.Eng.)
