@@ -16,9 +16,9 @@ Research interests
 My research spans decision-making under uncertainty, with a particular interest in applications to health care. Topics I work on include:
 
 - Stochastic programming
-- Robust optimization
 - Online algorithms
 - Inverse optimization
+- Mechanism design
 
 Education
 ======
